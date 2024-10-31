@@ -1,0 +1,16 @@
+ResourceID,ResourceType,Location,Status
+1,Ocean,Thomaschester,Stable
+2,Freshwater,Dawnborough,Threatened
+3,Soil,Port Alicia,Depleting
+4,Freshwater,Ashleyville,Recovering
+5,Wildlife,North Christopherland,Recovering
+6,Forest,Andersonport,Recovering
+7,Air,Melissaland,Monitored
+8,Soil,East David,Recovering
+9,Forest,Perezfurt,Monitored
+10,Freshwater,Lake Kaylafurt,Depleting
+11,Freshwater,Walterchester,Depleting
+12,Ocean,Port Nichole,Monitored
+13,Forest,Michaelland,Stable
+14,Soil,New Brianchester,Monitored
+15,Soil,Josephshire,Monitored
