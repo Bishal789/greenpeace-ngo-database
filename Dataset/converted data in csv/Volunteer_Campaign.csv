@@ -17,7 +17,6 @@ VolunteerID,CampaignID
 5,14
 1,18
 21,7
-3,5
 39,19
 28,9
 32,16
@@ -62,9 +61,7 @@ VolunteerID,CampaignID
 35,5
 2,1
 8,12
-21,12
 33,12
-34,12
 12,4
 8,10
 24,14
@@ -75,7 +72,6 @@ VolunteerID,CampaignID
 39,9
 1,15
 24,2
-39,19
 8,11
 37,18
 17,3
@@ -97,5 +93,3 @@ VolunteerID,CampaignID
 10,6
 7,12
 17,10
-16,7
-16,7
