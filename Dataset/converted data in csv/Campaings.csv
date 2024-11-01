@@ -1,21 +1,21 @@
-CampaignID,Name,Focus,StartDate,EndDate,FundraisingGoal
-1,Similar now blood of.,Marine Conservation,2024-09-29,2025-04-03,103033
-2,Human chair.,Deforestation,2024-01-05,2028-02-07,99426
-3,Reveal community.,Water Pollution,2020-10-10,2023-12-14,87196
-4,Store south cup.,Air Quality,2020-11-06,2024-11-02,118830
-5,Dog now available.,Air Quality,2022-01-16,2026-01-26,60284
-6,Edge discover.,Marine Conservation,2024-08-05,2029-09-25,151668
-7,Stay likely.,Air Quality,2023-10-21,2020-12-01,165491
-8,Management even idea.,Wildlife Protection,2022-08-05,2020-12-24,140698
-9,American town keep table.,Air Quality,2020-05-28,2020-07-05,112457
-10,Adult policy hot far.,Deforestation,2022-06-20,2023-11-01,168912
-11,Approach today or.,Deforestation,2021-06-20,2029-05-28,150592
-12,Drop employee.,Water Pollution,2020-02-20,2022-03-31,166532
-13,Another show.,Deforestation,2023-04-23,2025-07-05,106041
-14,Attack star.,Deforestation,2024-01-21,2021-04-03,69786
-15,Mind whatever.,Marine Conservation,2020-04-28,2021-03-26,153841
-16,Care red treat.,Air Quality,2022-01-12,2022-02-19,123369
-17,Our professional mouth.,Water Pollution,2021-10-25,2025-01-23,146308
-18,Kind common peace.,Deforestation,2024-05-03,2020-12-25,153935
-19,International.,Air Quality,2020-10-01,2025-05-08,98524
-20,Figure recognize.,Water Pollution,2021-12-31,2021-02-05,194938
+CampaignID,Name,Focus,StartDate,EndDate,FundraisingGoal,AmountRaised
+1,Similar now blood of.,Marine Conservation,2024-09-29,2025-04-03,103033,110535
+2,Human chair.,Deforestation,2024-01-05,2028-02-07,99426,101857
+3,Reveal community.,Water Pollution,2020-10-10,2023-12-14,87196,72489
+4,Store south cup.,Air Quality,2020-11-06,2024-11-02,118830,104665
+5,Dog now available.,Air Quality,2022-01-16,2026-01-26,60284,61504
+6,Edge discover.,Marine Conservation,2024-08-05,2029-09-25,151668,69866
+7,Stay likely.,Air Quality,2023-10-21,2020-12-01,165491,104212
+8,Management even idea.,Wildlife Protection,2022-08-05,2020-12-24,140698,116766
+9,American town keep table.,Air Quality,2020-05-28,2020-07-05,112457,31723
+10,Adult policy hot far.,Deforestation,2022-06-20,2023-11-01,168912,63890
+11,Approach today or.,Deforestation,2021-06-20,2029-05-28,150592,37591
+12,Drop employee.,Water Pollution,2020-02-20,2022-03-31,166532,78146
+13,Another show.,Deforestation,2023-04-23,2025-07-05,106041,112288
+14,Attack star.,Deforestation,2024-01-21,2021-04-03,69786,79300
+15,Mind whatever.,Marine Conservation,2020-04-28,2021-03-26,153841,109141
+16,Care red treat.,Air Quality,2022-01-12,2022-02-19,123369,91557
+17,Our professional mouth.,Water Pollution,2021-10-25,2025-01-23,146308,40006
+18,Kind common peace.,Deforestation,2024-05-03,2020-12-25,153935,23560
+19,International.,Air Quality,2020-10-01,2025-05-08,98524,110868
+20,Figure recognize.,Water Pollution,2021-12-31,2021-02-05,194938,81713
