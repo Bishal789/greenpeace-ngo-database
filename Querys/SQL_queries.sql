@@ -42,6 +42,14 @@ JOIN Volunteer_Campaign vc ON v.VolunteerID = vc.VolunteerID
 JOIN Campaigns c ON vc.CampaignID = c.CampaignID
 WHERE c.AmountRaised > 1000;
 
+SELECT Campaigns.CampaignID, Campaigns.Name, Campaigns.FundraisingGoal, Campaigns.AmountRaised, Campaigns.EndDate,
+       DATEDIFF(Campaigns.EndDate, CURRENT_DATE) AS DaysRemaining
+FROM Campaigns
+WHERE Campaigns.AmountRaised < Campaigns.FundraisingGoal
+  AND DATEDIFF(Campaigns.EndDate, CURRENT_DATE) < 30
+  AND Campaigns.EndDate > CURRENT_DATE;
+
+
 SELECT r.ResourceID, r.ResourceType, COUNT(DISTINCT cr.CampaignID) AS CampaignCount
 FROM Resources r
 JOIN Campaign_Resource cr ON r.ResourceID = cr.ResourceID
