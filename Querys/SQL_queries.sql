@@ -1,3 +1,5 @@
+Use Bidari;
+
 SELECT d.DonorID, CONCAT(d.FirstName, ' ', d.LastName) AS DonorName, dc.CampaignID, c.Name AS CampaignName, d.DonationAmount
 FROM Donors d
 JOIN Donor_Campaign dc ON d.DonorID = dc.DonorID
