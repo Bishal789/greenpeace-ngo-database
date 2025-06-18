@@ -25,16 +25,13 @@ This project presents a fully normalized relational database system designed for
 ## 🖼️ Visuals
 
 ### 📌 ER Diagram
-> Upload your ER diagram as an image and replace the path below.
 
 ![ER Diagram](https://github.com/user-attachments/assets/90747d3f-767b-43ee-9f08-1165563d66fa)
 
 ### 🧾 SQL Table Examples
-> You can include screenshots of table structures or outputs.
 
 ![Volunteer Table Screenshot](https://github.com/user-attachments/assets/179b80d4-d7c6-4e13-81f7-2eda929ae97d)
 
-![Sample Query Output](https://github.com/user-attachments/assets/fddd6bcf-99da-42cc-9a09-769712c347d2)
 
 ---
 
@@ -58,20 +55,24 @@ This project presents a fully normalized relational database system designed for
 - **2NF:** Eliminated partial dependencies on composite keys
 - **3NF:** Removed transitive dependencies to ensure data integrity
 
-> Each normalization step includes examples and explanations with supporting diagrams.
-
----
-
 ## 🔎 Sample SQL Queries
 
 - Top 10 donors for a campaign
-- Campaigns still accepting donations
-- Donors who contributed to multiple campaigns
-- Campaigns not meeting goals with few days left
-- Average donation amount per donor
-- Top 3 highest-funded campaigns with volunteer/donor counts
+![Image](https://github.com/user-attachments/assets/fddd6bcf-99da-42cc-9a09-769712c347d2)
 
-> All queries included as `.sql` script and screenshots in the report.
+- Campaigns still accepting donations
+![Image](https://github.com/user-attachments/assets/01f4be7d-4879-4991-bc41-93d52336d6f4)
+
+- Donors who contributed to multiple campaigns
+![Image](https://github.com/user-attachments/assets/9e0902a5-fa89-4ce6-bc84-4fa82965ea85)
+
+- Average donation amount per donor
+![Image](https://github.com/user-attachments/assets/6b771b8a-2c6e-487a-a2a7-58c995d780ad)
+
+- Top 3 highest-funded campaigns with volunteer/donor counts
+![Image](https://github.com/user-attachments/assets/7d005dfb-2a8b-4f5a-bd36-da758a55d0d1)
+
+
 
 ---
 
